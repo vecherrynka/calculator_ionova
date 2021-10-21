@@ -1,0 +1,13 @@
+print('Введите первое число')
+one = int(input())
+print('Введите второе число')
+two = int(input())
+
+print(one + two)
+print(one - two)
+print(two - one)
+print(one * two)
+print(one / two)
+print(two / one)
+print(one ** two)
+print(two ** one)
