@@ -1,0 +1,20 @@
+import math
+
+print('Введите первое число')
+one = float(input())
+print('Введите второе число')
+two = float(input())
+
+print(one + two)
+print(one - two)
+print(two - one)
+print(one * two)
+print(one / two)
+print(two / one)
+print(one ** two)
+print(two ** one)
+print(math.sin (one))
+print(math.sin (two))
+print(math.cos (one))
+print(math.cos (two))
+print(str(one) + str(two))
